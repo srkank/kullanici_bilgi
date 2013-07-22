@@ -1,0 +1,7 @@
+c:\users\serkan\documents\visual studio 2010\Projects\kullanıcı bilgi\kullanıcı bilgi\bin\Debug\kullanıcı bilgi.exe
+c:\users\serkan\documents\visual studio 2010\Projects\kullanıcı bilgi\kullanıcı bilgi\bin\Debug\kullanıcı bilgi.pdb
+c:\users\serkan\documents\visual studio 2010\Projects\kullanıcı bilgi\kullanıcı bilgi\obj\x86\Debug\kullanıcı_bilgi.Form1.resources
+c:\users\serkan\documents\visual studio 2010\Projects\kullanıcı bilgi\kullanıcı bilgi\obj\x86\Debug\kullanıcı_bilgi.Properties.Resources.resources
+c:\users\serkan\documents\visual studio 2010\Projects\kullanıcı bilgi\kullanıcı bilgi\obj\x86\Debug\kullanıcı bilgi.csproj.GenerateResource.Cache
+c:\users\serkan\documents\visual studio 2010\Projects\kullanıcı bilgi\kullanıcı bilgi\obj\x86\Debug\kullanıcı bilgi.exe
+c:\users\serkan\documents\visual studio 2010\Projects\kullanıcı bilgi\kullanıcı bilgi\obj\x86\Debug\kullanıcı bilgi.pdb
